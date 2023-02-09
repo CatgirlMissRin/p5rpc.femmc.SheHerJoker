@@ -1,6 +1,4 @@
 # p5rpc.femmc.SheHerJoker
-Persona 5 Royal PC mod that replaces all gendered words referring to Joker with feminine or gender neutral words
-
 GameBanana page, the releases on this site are the same as the ones under Releases here; https://gamebanana.com/mods/426328
 
 Tired of having your immersion broken of the self-insert protag when other pronouns are used for Joker? Just want to experience different pronouns? This mod is hopefully for you!
