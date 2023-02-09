@@ -86,6 +86,12 @@
           "ReleaseMetadataName": "Reloaded.Universal.FileEmulationFramework.ReleaseMetadata.json"
         }
       }
+    },
+    "GitHubRelease": {
+      "UserName": "CatgirlMissRin",
+      "RepositoryName": "p5rpc.femmc.SheHerJoker",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
     }
   },
   "IsUniversalMod": false,
