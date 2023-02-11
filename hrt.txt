@@ -1,5 +1,9 @@
+Originally just made this for myself, may as well push it to the github repo just for fun.
+
 All of these are sometimes not changed if the context makes more sense without it changed. Regardless do tell me ones you find that feel wrong and I will see if I need to fix them or if I intentially left them.
+
 A mild guide for how I replaced each word, even then there are times where I use something else even if I do not say it here when it fits better. For example, when Sojiro says he does not allow men in his passanger seat, I changed it to say children.
+
 man - woman or girl or kid
 manly - brave
 masculine - brave or something else
@@ -30,7 +34,7 @@ sons - daughter or child
 sonny - honey or child or tadpole or kid
 dad - mom
 father - mother
-handsome - 
+handsome - pretty or cute
 
-
+RegEx search expression used to find the original words I changed.
 \<(man|manly|masculine|macho|boy|boys|boyfriend|boyfriends|guy|guys|men|husband|he|him|his|himself|he's|mr|mr.|mister|kun|-kun|male|bro|brother|sir|dude|son|sons|sonny|dad|father|handsome)\>
