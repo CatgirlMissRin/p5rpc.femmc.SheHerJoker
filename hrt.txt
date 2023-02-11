@@ -1,0 +1,36 @@
+All of these are sometimes not changed if the context makes more sense without it changed. Regardless do tell me ones you find that feel wrong and I will see if I need to fix them or if I intentially left them.
+A mild guide for how I replaced each word, even then there are times where I use something else even if I do not say it here when it fits better. For example, when Sojiro says he does not allow men in his passanger seat, I changed it to say children.
+man - woman or girl or kid
+manly - brave
+masculine - brave or something else
+macho - gutsy or something else
+boy - girl
+boys - [nothing consistent]
+boyfriend - girlfriend
+boyfriends - 
+guy - gal
+guys - [nothing consistent]
+men - women or people or humans or something else
+husband - wife
+he - she
+him - her
+his - hers
+himself - herself
+he's - she's
+mr - ms
+mister - miss or ma'am or lady
+-kun - -san or -chan (context sensitive)
+male - female or something else
+bro - sis
+brother - sister
+sir - ma'am or miss
+dude - [nothing consistent]
+son - daughter or child
+sons - daughter or child
+sonny - honey or child or tadpole or kid
+dad - mom
+father - mother
+handsome - 
+
+
+\<(man|manly|masculine|macho|boy|boys|boyfriend|boyfriends|guy|guys|men|husband|he|him|his|himself|he's|mr|mr.|mister|kun|-kun|male|bro|brother|sir|dude|son|sons|sonny|dad|father|handsome)\>
